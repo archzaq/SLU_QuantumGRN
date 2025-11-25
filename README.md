@@ -45,6 +45,12 @@ cd QuantumGRN
 pip install .
 ```
 
+**For Developers**
+If you want to modify the code, such as the gates, and test changes immediately:
+```bash
+pip install -e .
+```
+
 **Note:** If you skip the Cairo installation, the package will work but network visualization (`draw_network`) will fail. All quantum circuit analysis and other visualizations will function normally.
 
 ## Quick Start

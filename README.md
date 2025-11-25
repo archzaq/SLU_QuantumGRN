@@ -29,7 +29,7 @@ Python 3.8+ is required (tested on Python 3.13):
 ```bash
 # Create a virtual environment (recommended)
 python3 -m venv ~/slugrn-env
-source ~/slugrn-env/bin/activate  # On Windows: slugrn-env\Scripts\activate
+source ~/slugrn-env/bin/activate
 
 # Or using conda
 conda create -n slugrn python=3.10

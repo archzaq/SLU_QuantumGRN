@@ -40,7 +40,7 @@ conda activate slugrn
 
 **From source:**
 ```bash
-git clone https://github.com/archzaq/QuantumGRN.git
+git clone https://github.com/archzaq/SLU_QuantumGRN.git
 cd QuantumGRN
 pip install .
 ```
